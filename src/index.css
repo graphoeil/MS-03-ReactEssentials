@@ -36,6 +36,12 @@ main h2 {
 }
 #examples h2 {
 	text-align: left;
+	margin: 0 0 10px 0;
+}
+#examples p{
+	color: #a18aba;
+	font-size: 14px;
+	margin: 0;
 }
 #examples menu {
 	margin: 1rem 0;
